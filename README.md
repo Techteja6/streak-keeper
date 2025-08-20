@@ -1,2 +1,2 @@
 # streak-keeper 
-# count the contributions for this momth
+# coun the contributions for this momth
